@@ -1,0 +1,17 @@
+body{
+    background: #159957;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #180669, #159957, #999657);  
+    background: linear-gradient(to left, #180669, #159957, #999657); 
+
+}
+
+.bg-white{
+    background-color: #fff;
+}
+#descripcion{
+    resize: none;
+}
+.centrado{
+    text-align: center;
+    vertical-align: middle;
+}
